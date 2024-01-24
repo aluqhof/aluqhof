@@ -6,6 +6,7 @@
 
 ### Connect with me
 - ![Linkedin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/20px-LinkedIn_icon.svg.png) [Linkedin](https://www.linkedin.com/in/alexluquehof/)
+- ![Youtube Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/40px-YouTube_Logo_2017.svg.png) [Youtube](https://www.youtube.com/channel/UCTMYvijzzSBWyVST1GV9NGw)
 
 ### Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexluque02&hide=cmake,C++&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
