@@ -8,7 +8,7 @@
 - ![Linkedin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/20px-LinkedIn_icon.svg.png) [Linkedin](https://www.linkedin.com/in/alexluquehof/)
 
 ### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexluque02&hide=cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexluque02&hide=cmake,C++&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Statistical data
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexluque02)](https://github.com/anuraghazra/github-readme-stats)
