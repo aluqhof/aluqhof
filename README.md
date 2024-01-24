@@ -2,7 +2,7 @@
 
 - 💡 Innovative, passionate and entrepreneurial, I enjoy creating projects in the development world.
 - 📫 How to reach me: alexanderluquehoffrogge@gmail.com
-- 🌱 I’m currently studying Multi-platform Application Development
+- 🌱 I’m currently studying Multi-platform Application Development in Salesianos Triana
 
 ### Connect with me
 - ![Linkedin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/20px-LinkedIn_icon.svg.png) [Linkedin](https://www.linkedin.com/in/alexluquehof/)
